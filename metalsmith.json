@@ -1,0 +1,8 @@
+{
+  "plugins": {
+    "metalsmith-layouts": {
+		"engine": "swig",
+        "default": "default.html"
+    }
+  }
+}
